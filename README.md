@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Tmiles
-- 👀 I’m interested in learning more  of software testing
-- 🌱 I’m currently a software automation tester working with selenium , postman, appium, jira, loadrunner.
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @automation_lad on twitter
-
-<!---
-Tmiles10/Tmiles10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Tmiles  
+- 👀 I’m passionate about software testing — both manual and automation  
+- 🧪 I’m currently working as a QA Engineer with experience in:
+  - 🧰 Tools/Frameworks: Selenium, Appium, Cypress, JMeter, Postman, Jenkins  
+  - ⚙️ CI/CD & Version Control: Jenkins, GitHub Actions  
+  - 🗃️ Test Management: TestRail, Jira  
+  - 🌐 API Testing: GraphQL & REST APIs  
+  - 💻 Languages: Java, JavaScript  
+- 🌱 Continuously learning and sharing knowledge about testing, DevOps, and QA best practices  
+- 💞️ Open to collaborations on QA projects, test framework setups, and automation contributions  
+- 📫 Reach me on Twitter: [@automation_lad](https://twitter.com/automation_lad)
